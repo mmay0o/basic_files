@@ -1,2 +1,2 @@
-# c_templates
-pack of ready C templates for learning/testing/developing
+# basic_files / templates
+Pack of frequent C basics for quick tests & learning.
